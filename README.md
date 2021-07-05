@@ -1,2 +1,1 @@
-# class46
-zombie shooter game 2
+# Zombie-Shooter-Blank-Template
